@@ -1,0 +1,213 @@
+2026-08-18 11:52:58,931 - INFO - ============================================================
+2026-08-18 11:52:58,931 - INFO - Python Document Processing Toolkit
+2026-08-18 11:52:58,931 - INFO - ============================================================
+2026-08-18 11:52:58,931 - INFO - Found 4 supported files
+2026-08-18 11:52:58,933 - INFO - Processing 4 files
+2026-08-18 11:52:58,936 - INFO - Starting processing: sample.csv
+2026-08-18 11:52:58,936 - INFO - Starting processing: sample.json
+2026-08-18 11:52:58,936 - INFO - Detected type: csv
+2026-08-18 11:52:58,936 - INFO - Starting processing: sample.pdf
+2026-08-18 11:52:58,936 - INFO - Detected type: json
+2026-08-18 11:52:58,936 - INFO - Reading CSV: sample.csv
+2026-08-18 11:52:58,939 - INFO - Starting processing: simple.txt
+2026-08-18 11:52:58,939 - INFO - Detected type: pdf
+2026-08-18 11:52:58,939 - INFO - Reading JSON: sample.json
+2026-08-18 11:52:58,940 - INFO - Detected type: txt
+2026-08-18 11:52:58,941 - INFO - Reading PDF: sample.pdf
+2026-08-18 11:52:58,941 - INFO - Reading TXT: simple.txt
+2026-08-18 11:52:58,951 - INFO - Successfully processed: simple.txt
+2026-08-18 11:52:58,953 - INFO - Successfully processed: sample.json
+2026-08-18 11:52:58,973 - INFO - Output saved: output\simple.json
+2026-08-18 11:52:58,991 - INFO - Output saved: output\sample.json
+2026-08-18 11:52:59,134 - INFO - Successfully processed: sample.pdf
+2026-08-18 11:52:59,149 - INFO - Output saved: output\sample.json
+2026-08-18 11:52:59,627 - INFO - Successfully processed: sample.csv
+2026-08-18 11:52:59,911 - INFO - Output saved: output\sample.json
+2026-08-18 11:52:59,911 - INFO - ============================================================
+2026-08-18 11:52:59,913 - INFO - Processing completed
+2026-08-18 11:52:59,913 - INFO - Successful: 4
+2026-08-18 11:52:59,913 - INFO - Failed: 0
+2026-08-18 11:52:59,913 - INFO - ============================================================
+2026-08-18 14:53:24,273 - INFO - ============================================================
+2026-08-18 14:53:24,273 - INFO - Python Document Processing Toolkit
+2026-08-18 14:53:24,273 - INFO - ============================================================
+2026-08-18 14:53:24,273 - INFO - Found 4 supported files
+2026-08-18 14:53:24,273 - INFO - Processing 4 files
+2026-08-18 14:53:24,273 - INFO - Starting processing: sample.csv
+2026-08-18 14:53:24,273 - INFO - Detected type: csv
+2026-08-18 14:53:24,273 - INFO - Starting processing: sample.json
+2026-08-18 14:53:24,273 - INFO - Reading CSV: sample.csv
+2026-08-18 14:53:24,273 - INFO - Starting processing: sample.pdf
+2026-08-18 14:53:24,273 - INFO - Detected type: json
+2026-08-18 14:53:24,273 - INFO - Starting processing: simple.txt
+2026-08-18 14:53:24,281 - INFO - Detected type: pdf
+2026-08-18 14:53:24,281 - INFO - Reading JSON: sample.json
+2026-08-18 14:53:24,281 - INFO - Detected type: txt
+2026-08-18 14:53:24,282 - INFO - Reading PDF: sample.pdf
+2026-08-18 14:53:24,283 - INFO - Reading TXT: simple.txt
+2026-08-18 14:53:24,289 - INFO - Successfully processed: simple.txt
+2026-08-18 14:53:24,289 - INFO - Successfully processed: sample.json
+2026-08-18 14:53:24,303 - INFO - Output saved: output\simple.json
+2026-08-18 14:53:24,318 - INFO - Output saved: output\sample.json
+2026-08-18 14:53:24,420 - INFO - Successfully processed: sample.pdf
+2026-08-18 14:53:24,426 - INFO - Output saved: output\sample.json
+2026-08-18 14:53:24,650 - INFO - Successfully processed: sample.csv
+2026-08-18 14:53:24,835 - INFO - Output saved: output\sample.json
+2026-08-18 14:53:24,835 - INFO - ============================================================
+2026-08-18 14:53:24,835 - INFO - Processing completed
+2026-08-18 14:53:24,835 - INFO - Successful: 4
+2026-08-18 14:53:24,835 - INFO - Failed: 0
+2026-08-18 14:53:24,835 - INFO - ============================================================
+2026-08-18 16:25:59,985 - INFO - ============================================================
+2026-08-18 16:25:59,985 - INFO - Python Document Processing Toolkit
+2026-08-18 16:25:59,985 - INFO - ============================================================
+2026-08-18 16:25:59,985 - INFO - Found 4 supported files
+2026-08-18 16:25:59,985 - INFO - Processing 4 files
+2026-08-18 16:25:59,985 - INFO - Starting processing: sample.csv
+2026-08-18 16:25:59,985 - INFO - Detected type: csv
+2026-08-18 16:25:59,985 - INFO - Starting processing: sample.json
+2026-08-18 16:25:59,985 - INFO - Reading CSV: sample.csv
+2026-08-18 16:25:59,985 - INFO - Starting processing: sample.pdf
+2026-08-18 16:25:59,985 - INFO - Detected type: json
+2026-08-18 16:25:59,998 - INFO - Starting processing: simple.txt
+2026-08-18 16:25:59,999 - INFO - Detected type: pdf
+2026-08-18 16:25:59,999 - INFO - Reading JSON: sample.json
+2026-08-18 16:26:00,000 - INFO - Detected type: txt
+2026-08-18 16:26:00,000 - INFO - Reading PDF: sample.pdf
+2026-08-18 16:26:00,001 - INFO - Reading TXT: simple.txt
+2026-08-18 16:26:00,023 - INFO - Successfully processed: sample.json
+2026-08-18 16:26:00,024 - INFO - Successfully processed: simple.txt
+2026-08-18 16:26:00,038 - INFO - Output saved: output\sample.json
+2026-08-18 16:26:00,048 - INFO - Output saved: output\simple.json
+2026-08-18 16:26:00,130 - INFO - Successfully processed: sample.pdf
+2026-08-18 16:26:00,135 - INFO - Output saved: output\sample.json
+2026-08-18 16:26:00,322 - INFO - Successfully processed: sample.csv
+2026-08-18 16:26:00,519 - INFO - Output saved: output\sample.json
+2026-08-18 16:26:00,519 - INFO - ============================================================
+2026-08-18 16:26:00,519 - INFO - Processing completed
+2026-08-18 16:26:00,519 - INFO - Successful: 4
+2026-08-18 16:26:00,519 - INFO - Failed: 0
+2026-08-18 16:26:00,519 - INFO - ============================================================
+2026-08-18 17:01:43,443 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:03:25,292 - INFO - Starting processing: corrupt.json
+2026-08-18 17:03:25,292 - INFO - Detected type: json
+2026-08-18 17:03:25,292 - INFO - Reading JSON: corrupt.json
+2026-08-18 17:03:25,300 - ERROR - Invalid JSON: corrupt.json
+Traceback (most recent call last):
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 302, in process_file
+    content = process_json(file_path)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 133, in process_json
+    return json.load(file)
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2026-08-18 17:03:25,323 - INFO - Starting processing: non_existent_file.txt
+2026-08-18 17:03:25,323 - INFO - Detected type: txt
+2026-08-18 17:03:25,323 - INFO - Reading TXT: non_existent_file.txt
+2026-08-18 17:03:25,323 - ERROR - File not found: non_existent_file.txt
+2026-08-18 17:03:25,323 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:05:08,096 - INFO - Starting processing: corrupt.json
+2026-08-18 17:05:08,096 - INFO - Detected type: json
+2026-08-18 17:05:08,096 - INFO - Reading JSON: corrupt.json
+2026-08-18 17:05:08,101 - ERROR - Invalid JSON: corrupt.json
+Traceback (most recent call last):
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 302, in process_file
+    content = process_json(file_path)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 133, in process_json
+    return json.load(file)
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2026-08-18 17:05:08,101 - INFO - Starting processing: non_existent_file.txt
+2026-08-18 17:05:08,101 - INFO - Detected type: txt
+2026-08-18 17:05:08,101 - INFO - Reading TXT: non_existent_file.txt
+2026-08-18 17:05:08,101 - ERROR - File not found: non_existent_file.txt
+2026-08-18 17:05:08,118 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:07:33,008 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:07:40,407 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:08:45,591 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:10:18,747 - INFO - Starting processing: corrupt.json
+2026-08-18 17:10:18,747 - INFO - Detected type: json
+2026-08-18 17:10:18,747 - INFO - Reading JSON: corrupt.json
+2026-08-18 17:10:18,755 - ERROR - Invalid JSON: corrupt.json
+Traceback (most recent call last):
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 302, in process_file
+    content = process_json(file_path)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\KamalaSurapuram\Documents\python-document-toolkit\document_toolkit.py", line 133, in process_json
+    return json.load(file)
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2026-08-18 17:10:18,763 - INFO - Starting processing: non_existent_file.txt
+2026-08-18 17:10:18,764 - INFO - Detected type: txt
+2026-08-18 17:10:18,764 - INFO - Reading TXT: non_existent_file.txt
+2026-08-18 17:10:18,764 - ERROR - File not found: non_existent_file.txt
+2026-08-18 17:10:18,765 - INFO - Reading PDF: dummy.pdf
+2026-08-18 17:14:55,259 - INFO - Reading PDF: dummy.pdf
+2026-08-19 11:57:05,387 - INFO - Reading PDF: dummy.pdf
+2026-08-19 14:21:19,298 - INFO - ============================================================
+2026-08-19 14:21:19,300 - INFO - Python Document Processing Toolkit
+2026-08-19 14:21:19,302 - INFO - ============================================================
+2026-08-19 14:21:19,304 - INFO - Found 4 supported files
+2026-08-19 14:21:19,304 - INFO - Processing 4 files
+2026-08-19 14:21:19,312 - INFO - Starting processing: sample.csv
+2026-08-19 14:21:19,314 - INFO - Starting processing: sample.json
+2026-08-19 14:21:19,315 - INFO - Detected type: csv
+2026-08-19 14:21:19,317 - INFO - Starting processing: sample.pdf
+2026-08-19 14:21:19,317 - INFO - Detected type: json
+2026-08-19 14:21:19,317 - INFO - Starting processing: simple.txt
+2026-08-19 14:21:19,317 - INFO - Reading CSV: sample.csv
+2026-08-19 14:21:19,317 - INFO - Detected type: pdf
+2026-08-19 14:21:19,322 - INFO - Reading JSON: sample.json
+2026-08-19 14:21:19,323 - INFO - Reading PDF: sample.pdf
+2026-08-19 14:21:19,323 - INFO - Detected type: txt
+2026-08-19 14:21:19,325 - INFO - Reading TXT: simple.txt
+2026-08-19 14:21:19,340 - INFO - Successfully processed: simple.txt
+2026-08-19 14:21:19,345 - INFO - Successfully processed: sample.json
+2026-08-19 14:21:19,379 - INFO - Output saved: output\simple.json
+2026-08-19 14:21:19,408 - INFO - Output saved: output\sample.json
+2026-08-19 14:21:19,756 - INFO - Successfully processed: sample.pdf
+2026-08-19 14:21:19,772 - INFO - Output saved: output\sample.json
+2026-08-19 14:21:19,991 - INFO - Successfully processed: sample.csv
+2026-08-19 14:21:20,213 - INFO - Output saved: output\sample.json
+2026-08-19 14:21:20,224 - INFO - ============================================================
+2026-08-19 14:21:20,224 - INFO - Processing completed
+2026-08-19 14:21:20,224 - INFO - Successful: 4
+2026-08-19 14:21:20,224 - INFO - Failed: 0
+2026-08-19 14:21:20,224 - INFO - ============================================================
